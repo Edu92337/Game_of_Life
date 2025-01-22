@@ -1,14 +1,14 @@
-# Game_of_Life# Game of Life (Conway's Game of Life)
+# Game of Life (Conway's Game of Life)
 
-Este é um projeto simples implementando o **Jogo da Vida** de Conway em Python, utilizando as bibliotecas `pygame` e `numpy` para renderização gráfica e manipulação da grade. O **Jogo da Vida** é uma simulação de células em uma grade que seguem um conjunto de regras baseadas no número de vizinhos vivos.
+This is a simple project implementing **Conway's Game of Life** in Python, using the `pygame` and `numpy` libraries for graphical rendering and grid manipulation. The **Game of Life** is a simulation of cells on a grid that follow a set of rules based on the number of neighboring live cells.
 
-## Requisitos
+## Requirements
 
 - Python 3.x
-- Bibliotecas necessárias: `pygame`, `numpy`
+- Required libraries: `pygame`, `numpy`
 
-## Como Rodar
+## How to Run
 
-### 1. Clone o repositório:
+### 1. Clone the repository:
 ```bash
-git clone https://github.com/seu-usuario/game-of-life.git
+git clone https://github.com/your-username/game-of-life.git
